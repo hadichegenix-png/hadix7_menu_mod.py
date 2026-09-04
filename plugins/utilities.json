@@ -1,1 +1,21 @@
-
+{
+  "name": "Utilities",
+  "description": "HADI Plugins",
+  "plugins_base_url": "https://github.com/hadichegenix-png/hadix7_menu_mod.py/{content_type}/{tag}/plugins/utilities",
+  "plugins": {
+    "hadi_mod": {
+      "description": "HADI Mod",
+      "external_url": "",
+      "authors": [
+        {
+          "name": "HADI",
+          "email": "",
+          "discord": ""
+        }
+      ],
+      "versions": {
+        "1.0.0": null
+      }
+    }
+  }
+}
